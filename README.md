@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Maria764-web
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello, I'm @Maria764-web.
 
-<!---
-Maria764-web/Maria764-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I enjoy developing visually appealing and user-friendly applications and web development.
+🌱 I'm learning PHP|Laravel and advanced JavaScript right now.
+💞️ I'm hoping to work with others on creative web development projects and contributions to open-source software.
+🎫 My email address is mariamuneer175@gmail.com.
+😄 Pronouns used: She/Her
+➯ Fun fact: I enjoy working through code challenges and puzzles!
+
+
